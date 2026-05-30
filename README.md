@@ -1,19 +1,22 @@
 # deltaworks.cloud
 
-Support, not replacement.
+**Support, not replacement**
 
 Extending engineered systems beyond the machine.  
-Cloud services exist to support high‑performance local AI,  
-never to replace it.
+Cloud tools made to suppor high‑performance local AI.
 
 This layer provides:
 
-• snapshots  
-• backups  
-• synchronization  
+•　snapshots  
+•　backups  
+•　synchronization
 
-Cloud does not replace local systems,  
-it exists to support them.
+
+Cloud supports local systems,  
+it does not replace them.
 ---
 
-DELTAWORKS — Engineering the stack
+
+    
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　D　Ξ　L　T　Λ　 W　Ω　R　K　S  
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　e n g i n e e r i n g　t h e　s t a c k
