@@ -2,8 +2,9 @@
 
 Support, not replacement.
 
-Cloud exists to assist local systems,  
-never to replace them.
+Extending engineered systems beyond the machine.  
+Cloud services exist to support high‑performance local AI,  
+never to replace it.
 
 This layer provides:
 
