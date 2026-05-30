@@ -1,2 +1,16 @@
-# cloud
-Support, not replacement | Cloud services exist only to support local ownership: • snapshots • secure sync • backups Cloud is never used to mask architectural failure.
+# deltaworks.cloud
+
+Support, not replacement.
+
+Cloud exists to assist local systems,  
+never to replace them.
+
+This layer provides:
+
+• snapshots  
+• backups  
+• synchronization  
+
+Cloud does not decide.  
+Cloud does not run.  
+Cloud supports.
