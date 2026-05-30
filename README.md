@@ -12,7 +12,7 @@ This layer provides:
 • synchronization  
 
 Cloud does not hoard.   
-Cloud supports.
+Cloud is for support.
 ---
 
 DELTAWORKS — Engineering the stack
