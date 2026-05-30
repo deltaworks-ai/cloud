@@ -11,6 +11,8 @@ This layer provides:
 • backups  
 • synchronization  
 
-Cloud does not decide.  
-Cloud does not run.  
+Cloud does not hoard.   
 Cloud supports.
+---
+
+DELTAWORKS — Engineering the stack
