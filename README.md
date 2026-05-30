@@ -11,8 +11,8 @@ This layer provides:
 • backups  
 • synchronization  
 
-Cloud does not hoard.   
-Cloud is for support.
+Cloud does not replace local systems,  
+it exists to support them.
 ---
 
 DELTAWORKS — Engineering the stack
